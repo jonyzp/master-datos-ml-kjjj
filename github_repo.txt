@@ -1,0 +1,17 @@
+El repositorio se encuentra en la siguiente ubicación:
+
+https://github.com/jonyzp/master-datos-ml-kjjj
+
+Requerimientos:
+- Python 3.8
+- Virtualenv
+
+Pasos para configurar el proyecto:
+
+- Instalar las dependencias:
+> virtualenv .venv
+> source .venv/bin/activate
+> pip3.8 install -r frozen-requirements.txt
+
+- Ejecutar los notebooks:
+./2_unsupervised/Notebook.ipynb
