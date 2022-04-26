@@ -12,4 +12,7 @@ Pasos para configurar el proyecto:
 > pip3.8 install -r frozen-requirements.txt
 
 - Ejecutar los notebooks:
+./1_supervised/Supervisado.ipynb
 ./2_unsupervised/Notebook.ipynb
+./3_reinforcement/Work_LR.ipynb
+./4_evolutive/Evolutivo.ipynb
